@@ -1,0 +1,14 @@
+# python cache
+__pycache__/
+
+# streamlit cache
+.streamlit/
+
+#ollama cache
+.ollama/
+
+#ollama model
+models/
+
+#venv
+ollamabot/
